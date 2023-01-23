@@ -1,0 +1,15 @@
+.btn-md{
+  background-color: #E50914;
+  color: #ffffff;
+}
+.btn-md:hover{
+  background-color: #850307;
+  color: whitesmoke;
+}
+
+img{
+  width: 100%;
+}
+h5{
+  color: #fff;
+}

@@ -1,0 +1,31 @@
+img{
+  width: 100%;
+  height: auto;
+}
+
+h1{
+  color: seagreen;
+  font-weight: bolder;
+}
+
+p{
+  color: #fff;
+  font-size: 12px;
+  letter-spacing: 1px;
+  line-height: 18px;
+}
+
+.btn-md{
+  background-color: #E50914;
+  color: #ffffff;
+  text-decoration: none;
+  letter-spacing: 1px;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.btn-md:hover{
+  background-color: #E50914;
+  color: #ffffff;
+  border: 1px solid #fff;
+}
